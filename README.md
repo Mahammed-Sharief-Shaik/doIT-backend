@@ -34,11 +34,11 @@ Backend: [doIT API on Render](https://your-backend-link.onrender.com)
 - ✅ Protected routes (private dashboard)
 - ✅ Clean UX with async loaders and error handling
 
----
+<!-- ---
 
 ## 🖼️ Preview
 
-![doIT Screenshot](./screenshots/dashboard-preview.png)
+![doIT Screenshot](./screenshots/dashboard-preview.png) -->
 
 ---
 
