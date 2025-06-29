@@ -7,8 +7,8 @@ Stay focused. Be productive. Track your tasks and get things done with doIT – 
 
 ## 🚀 Live Demo
 
-Frontend: [doIT on Vercel](https://your-frontend-link.vercel.app)  
-Backend: [doIT API on Render](https://your-backend-link.onrender.com)
+Frontend: [doIT on Vercel](https://do-it-frontend-three.vercel.app/)  
+Backend: [doIT API on Render](https://doit-server.onrender.com)
 
 ---
 
@@ -30,15 +30,8 @@ Backend: [doIT API on Render](https://your-backend-link.onrender.com)
 - ✅ Persistent authentication using tokens
 - ✅ Analytics chart: view completed vs pending tasks
 - ✅ Fully responsive UI
-- ✅ Dark/light theme switcher
 - ✅ Protected routes (private dashboard)
 - ✅ Clean UX with async loaders and error handling
-
-<!-- ---
-
-## 🖼️ Preview
-
-![doIT Screenshot](./screenshots/dashboard-preview.png) -->
 
 ---
 
